@@ -1,4 +1,9 @@
 import random
+# 22
+number = int(input('숫자입력'))
+if number % 2 == 0 :
+    print('짝수')
+
 # 25 - 복권 발행 프로그램
 c = 0
 yourkey = [int(input('1번째 번호')), int(input('2번째 번호')), int(input('3번째 번호'))]
