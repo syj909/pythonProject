@@ -8,7 +8,6 @@ sjs = []
 
 # 프로그램 주 실행부
 while True :
-    sjv7.loadSungJuk()
 
     menu = sjv7.displayMenu()
     if menu == '0' :
